@@ -1,1 +1,1 @@
-# Late Night Transportation Stradegy for Dartmouth Graduate Students
+# Late Night Transportation Strategy for Dartmouth Graduate Students
