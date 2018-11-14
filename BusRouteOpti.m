@@ -67,7 +67,6 @@ while numtours > 1 % repeat until there is just one subtour
     % How many subtours this time?
     tours = detectSubtours(x(1:21),idxs);
     numtours = length(tours); % number of subtours
-    fprintf('# of subtours: %d\n',numtours);
 end
 x
 costopt
